@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.14 (projectweather)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (projectweather)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.9 (PythonProjec8)" />
+  </component>
+>>>>>>> 651c858b46e07d76c0422322f24ce939c4ebe06a
 </project>
